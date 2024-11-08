@@ -1,7 +1,23 @@
-- 👋 Hi, I’m @Katania91
-- 👀 I’m interested in developing my skills in Angular, Python, and FiveM scripting
-- 🌱 I’m currently learning Angular and Python to enhance my development skills, while also creating unique FiveM client-side scripts
-- 💞️ I’m looking to collaborate on projects involving web or mobile application development, as well as FiveM customization
-- 📫 Reach me via Discord @katania91
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm bilingual and fluent in both French and Italian, which allows me to appreciate a wide range of literature and music from different cultures. Also, I'm passionate about creating immersive experiences for the FiveM community
+# 👋 Hello, I’m @Katania91
+
+### 👀 Interests
+Web & Mobile Development
+FiveM Scripting
+Mastering Angular & Python
+
+### 🌱 Currently Learning
+**Angular & Python:** To sharpen my dev skills and push the boundaries of what I can create.
+**FiveM Scripting:** Crafting unique, immersive experiences for the community.
+
+### 💞️ Looking to Collaborate On
+Web or mobile application projects
+FiveM server customizations & enhancements
+
+### 📫 Contact Me
+Discord: **@katania91**
+
+### 😄 Pronouns
+He/Him
+
+### ⚡ Fun Fact
+I'm bilingual, fluent in both French and Italian! This opens up a world of literature, music, and culture, which I love to explore and incorporate into my creative work.
