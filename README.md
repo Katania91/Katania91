@@ -14,7 +14,7 @@ Web or mobile application projects
 FiveM server customizations & enhancements
 
 ### 📫 Contact Me
-Discord: **@katania91**
+Discord: discord.gg/ujCG6MTTDb
 
 ### ⚡ Fun Fact
 I'm bilingual, fluent in both French and Italian! This opens up a world of literature, music, and culture, which I love to explore and incorporate into my creative work.
