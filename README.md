@@ -19,6 +19,6 @@ Contact me on [Discord](https://discord.gg/ujCG6MTTDb)
 ### ⚡ Fun Fact
 I'm bilingual, fluent in both French and Italian! This opens up a world of literature, music, and culture, which I love to explore and incorporate into my creative work.
 
-### Buy me a [Ko-Fi](https://ko-fi.com/katania91) ☕
+### ☕ Buy me a [Ko-Fi](https://ko-fi.com/katania91) 
 
 Thanks for your help!
