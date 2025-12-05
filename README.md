@@ -32,16 +32,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Katania91&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="Katania's GitHub stats" 
+  <img
+    src="https://github-readme-stats-five-eta-97.vercel.app/api?username=Katania91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Katania's GitHub stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katania91&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top languages" 
+  <img
+    src="https://github-readme-stats-five-eta-97.vercel.app/api/top-langs/?username=Katania91&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
   />
 </p>
 
@@ -66,7 +66,7 @@
 
 ### 📫 Contact
 
-The fastest way to reach me:
+Fastest way to reach me:
 
 - 💬 **Discord:** `@katania91` (DMs open)
 
@@ -84,5 +84,4 @@ The fastest way to reach me:
 If something I built helped you or saved you time:
 
 <a href="https://ko-fi.com/katania91">
-  <img src="https://img.shields.io/badge/Buy%20me%20a-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
-</a>
+  <img src="https://img.shi
