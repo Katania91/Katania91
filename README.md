@@ -29,20 +29,38 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Katania91&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Katania's GitHub stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katania91&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top languages" 
+  />
+</p>
+
+---
+
 ### 🎯 What I Do
 
-- 🕸️ **Web development** with TypeScript, Node.js and modern frontends  
-- 📱 **Mobile apps** with Flutter  
+- 🕸️ Web development with **TypeScript**, **Node.js** and modern frontends  
+- 📱 Mobile apps with **Flutter**  
 - 🎮 **FiveM scripting** (Lua) – custom systems, utilities and QoL scripts for servers  
-- 🧪 Constantly breaking stuff to learn faster
+- 🧪 Breaking things on purpose to learn faster
 
 ---
 
 ### 📚 Currently Focused On
 
-- Pushing further with **TypeScript** and large-scale Node.js backends  
-- Building more solid **Flutter** apps (clean architecture, scalability)  
-- Sharpening **Lua** skills on real FiveM use cases  
+- Leveling up **TypeScript** and larger Node.js backends  
+- Building more solid **Flutter** apps (cleaner architecture, scalability)  
+- Sharpening **Lua** around real FiveM use cases  
 
 ---
 
@@ -50,20 +68,20 @@
 
 The fastest way to reach me:
 
-- 💬 **Discord:** `@katania91` (DMs open)  
+- 💬 **Discord:** `@katania91` (DMs open)
 
 ---
 
 ### ⚡ A bit about me
 
 - 🇫🇷 / 🇮🇹 Bilingual – French & Italian  
-- I enjoy mixing different tech stacks (Node + Flutter + Lua) to ship things that are actually used, not just demo projects.  
+- I like mixing stacks (Node + Flutter + Lua) to ship things that are actually used, not just demo projects.  
 
 ---
 
 ### ☕ Support
 
-If you like something I built or it saved you time:
+If something I built helped you or saved you time:
 
 <a href="https://ko-fi.com/katania91">
   <img src="https://img.shields.io/badge/Buy%20me%20a-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
