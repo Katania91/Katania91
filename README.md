@@ -83,5 +83,6 @@ Fastest way to reach me:
 
 If something I built helped you or saved you time:
 
-<a href="https://ko-fi.com/katania91">
-  <img src="https://img.shi
+  <a href="https://ko-fi.com/katania91">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
+  </a>
