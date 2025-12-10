@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Katania 👋</h1>
 
 <p align="center">
-  <b>Web & Mobile Dev · FiveM Scripter · TypeScript Enjoyer</b>
+  <b>Web & Mobile Dev · TypeScript Enjoyer · <del>FiveM Scripter</del></b>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 
 - 🕸️ Web development with **TypeScript**, **Node.js** and modern frontends  
 - 📱 Mobile apps with **Flutter**  
-- 🎮 **FiveM scripting** (Lua) – custom systems, utilities and QoL scripts for servers  
+- 🎮 <del>**FiveM scripting** (Lua) – custom systems, utilities and QoL scripts for servers</del> **[Retired]**  
 - 🧪 Breaking things on purpose to learn faster
 
 ---
