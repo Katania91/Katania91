@@ -29,24 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-five-eta-97.vercel.app/api?username=Katania91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Katania's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-five-eta-97.vercel.app/api/top-langs/?username=Katania91&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
-
----
-
 ### 🎯 What I Do
 
 - 🕸️ Web development with **TypeScript**, **Node.js** and modern frontends  
