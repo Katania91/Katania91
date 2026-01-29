@@ -73,7 +73,7 @@
 
 I developed **KatanOS** — and yes, it exists outside my imagination.
 
-👉 **https://katania.me/#/katanos**
+👉 **https://katania.me/katanos**
 
 **KatanOS status:**
 - ✅ Built
