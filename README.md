@@ -8,7 +8,7 @@
   <a href="https://github.com/Katania91?tab=repositories">
     <img src="https://img.shields.io/badge/Code-Open%20Source-238636?style=for-the-badge&logo=github" alt="Open Source" />
   </a>
-  <a href="https://katania.me/#/katanos">
+  <a href="https://katania.me/katanos">
     <img src="https://img.shields.io/badge/Site-KatanOS-111827?style=for-the-badge" alt="KatanOS" />
   </a>
   <a href="https://ko-fi.com/katania91">
