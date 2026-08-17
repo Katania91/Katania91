@@ -30,7 +30,7 @@
 - 🧑‍💻 **INDIE DEVELOPER** (I don’t ask for permission, I ask for stack traces)
 - 🧱 **SELF-TAUGHT** (graduated top of my class at YouTube University)
 - 🧪 **Debugging enjoyer** (I pay in sanity, compiler pays me back in warnings)
-- 🏢 **CO-FOUNDER @ [Kore Agency](https://www.koreagency.it)** (we build real stuff, not just Dribbble shots)
+- 🏢 **CO-FOUNDER @ [Kore Agency](https://www.koreagency.it)** and **FOUNDER @ [Kore84](kore84.fr)** (we build real stuff, not just Dribbble shots)
 - 🔥 I ship products people actually use (and yes, they ship bugs back)
 
 ---
