@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I’m Katania.</h1>
 
 <p align="center">
-  <b>I build websites, apps and other things that seemed easier before I started them.</b>
+  <b>I build websites, apps and other things that looked easier before I started them.</b>
 </p>
 
 <p align="center">
   Founder @ <a href="https://kore84.fr"><b>Kore84</b></a> ·
   Co-founder @ <a href="https://www.koreagency.it"><b>Kore Agency</b></a> ·
   Indie Developer ·
-  Professional tab opener
+  Builder of questionable things
 </p>
 
 <p align="center">
@@ -19,73 +19,59 @@
     <img src="https://img.shields.io/badge/Co--Founder-Kore%20Agency-0F172A?style=for-the-badge" alt="Kore Agency" />
   </a>
   <a href="https://katania.me/katanos">
-    <img src="https://img.shields.io/badge/Built-KatanOS-111827?style=for-the-badge" alt="KatanOS" />
+    <img src="https://img.shields.io/badge/Main%20Quest-KatanOS-111827?style=for-the-badge" alt="KatanOS" />
   </a>
   <a href="https://github.com/Katania91?tab=repositories">
-    <img src="https://img.shields.io/badge/Bad%20Decisions-Open%20Source-238636?style=for-the-badge&logo=github" alt="Open Source" />
+    <img src="https://img.shields.io/badge/Open%20Source-Bad%20Ideas-238636?style=for-the-badge&logo=github" alt="Open Source" />
   </a>
 </p>
 
 <p align="center">
-  <i>Production is just development with consequences.</i>
+  <i>Production is where hope goes to get tested.</i>
 </p>
 
 ---
 
-## 🧬 About this individual
+## 👤 About
 
-Self-taught developer from Italy, currently operating from France for reasons that remain under investigation.
+Self-taught developer from Italy, currently based in France.
 
-I build things for myself, for clients, and occasionally because at 1:47 AM I become convinced that the existing solution is unacceptable and the only reasonable response is rebuilding the entire concept from scratch.
+I build things for clients, for myself, and sometimes because at 1:43 AM I decide the existing solution is unacceptable and must be replaced by a more complicated one.
 
-Most of my work lives somewhere between:
+### Main species traits
 
-- 🌐 Websites that need to actually sell something
-- 🧰 Internal tools nobody wants to build
-- 🖥️ Desktop applications
-- 📱 Mobile applications
-- 🏢 Business software
-- 🧪 Questionable side projects
-- 💀 Ideas that started with *“this should take two days”*
-
-I’m the founder of **[Kore84](https://kore84.fr)**, my web studio in France, and co-founder of **[Kore Agency](https://www.koreagency.it)** in Italy.
-
-So technically I run two agencies.
-
-This sounded considerably smarter before I wrote it down.
+- Build first, overthink later
+- Prefer real products over fake hype
+- Strong opinions, loosely held
+- Too many tabs open
+- Too many side projects started with “this will be quick”
 
 ---
 
-## 🇫🇷 Kore84
+## <img src="https://flagcdn.com/w20/fr.png" width="20" alt="France flag" /> Kore84
 
-### [kore84.fr](https://kore84.fr)
+**[kore84.fr](https://kore84.fr)**
 
 My French web studio.
 
-I build websites, redesign existing ones, work on local SEO, create custom tools and occasionally inspect websites that look like they survived Internet Explorer 6.
+I build websites, redesign old ones, improve local SEO, create custom tools, and occasionally rescue businesses from websites that look like they were assembled during a power outage.
 
-Mainly working with businesses around **Vaucluse, Bollène, Orange and Avignon**.
+### What I do with Kore84
 
-Things I care about:
+- Website creation
+- Website redesign
+- Local SEO
+- Custom business tools
+- Troubleshooting
+- Straightforward websites that do their job
 
-- Websites that don't look like templates
-- Performance
-- SEO
-- Clean interfaces
-- Actual business objectives
-- Custom solutions when existing ones suck
-- Interfaces that humans understand
-- Avoiding WordPress whenever reasonably possible
-- Making websites look considerably more expensive than they were
-
-### Kore84 development cycle
+### Kore84 philosophy
 
 ```text
+Make it clear.
 Make it fast.
 Make it useful.
 Make it look expensive.
-Deploy.
 Open Safari.
-Regret.
-Fix Safari.
-Deploy again.
+Suffer.
+Fix.
