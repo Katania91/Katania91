@@ -87,7 +87,7 @@ Agency I co-founded in Italy.
 
 We work on websites, digital products, branding, SEO and custom solutions for businesses that need something better than the classic:
 
-> logo left, menu right, stock photo of two people pretending to enjoy a meeting
+**logo left · menu right · stock photo of two people pretending to enjoy a meeting**
 
 ---
 
