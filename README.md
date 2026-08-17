@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I’m Katania 👋</h1>
 
 <p align="center">
-  <b>Indie Developer · Co-founder @ Kore Agency · Self-taught · TypeScript Enjoyer · Meme IRL</b>
+  <b>Indie Developer · Co-founder @ Kore Agency · Founder @ Kore84 · Self-taught · TypeScript Enjoyer · Meme IRL</b>
 </p>
 
 <p align="center">
