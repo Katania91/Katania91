@@ -1,107 +1,91 @@
-<h1 align="center">Hey, I’m Katania 👋</h1>
+<h1 align="center">Hi, I’m Katania.</h1>
 
 <p align="center">
-  <b>Indie Developer · Co-founder @ Kore Agency · Founder @ Kore84 · Self-taught · TypeScript Enjoyer · Meme IRL</b>
+  <b>I build websites, apps and other things that seemed easier before I started them.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Katania91?tab=repositories">
-    <img src="https://img.shields.io/badge/Code-Open%20Source-238636?style=for-the-badge&logo=github" alt="Open Source" />
-  </a>
-  <a href="https://katania.me/katanos">
-    <img src="https://img.shields.io/badge/Main%20Quest-KatanOS-111827?style=for-the-badge" alt="KatanOS" />
+  Founder @ <a href="https://kore84.fr"><b>Kore84</b></a> ·
+  Co-founder @ <a href="https://www.koreagency.it"><b>Kore Agency</b></a> ·
+  Indie Developer ·
+  Professional tab opener
+</p>
+
+<p align="center">
+  <a href="https://kore84.fr">
+    <img src="https://img.shields.io/badge/Founder-Kore84-111111?style=for-the-badge" alt="Kore84" />
   </a>
   <a href="https://www.koreagency.it">
     <img src="https://img.shields.io/badge/Co--Founder-Kore%20Agency-0F172A?style=for-the-badge" alt="Kore Agency" />
   </a>
-  <a href="https://ko-fi.com/katania91">
-    <img src="https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
+  <a href="https://katania.me/katanos">
+    <img src="https://img.shields.io/badge/Built-KatanOS-111827?style=for-the-badge" alt="KatanOS" />
+  </a>
+  <a href="https://github.com/Katania91?tab=repositories">
+    <img src="https://img.shields.io/badge/Bad%20Decisions-Open%20Source-238636?style=for-the-badge&logo=github" alt="Open Source" />
   </a>
 </p>
 
 <p align="center">
-  <i>“Ship > perfect. If it compiles, it’s basically done.”</i>
+  <i>Production is just development with consequences.</i>
 </p>
 
 ---
 
-## 🧬 Lore (character select screen)
+## 🧬 About this individual
 
-- 🧑‍💻 **INDIE DEVELOPER** (I don’t ask for permission, I ask for stack traces)
-- 🧱 **SELF-TAUGHT** (graduated top of my class at YouTube University)
-- 🧪 **Debugging enjoyer** (I pay in sanity, compiler pays me back in warnings)
-- 🏢 **CO-FOUNDER @ [Kore Agency](https://www.koreagency.it)** and **FOUNDER @ [Kore84](kore84.fr)** (we build real stuff, not just Dribbble shots)
-- 🔥 I ship products people actually use (and yes, they ship bugs back)
+Self-taught developer from Italy, currently operating from France for reasons that remain under investigation.
 
----
+I build things for myself, for clients, and occasionally because at 1:47 AM I become convinced that the existing solution is unacceptable and the only reasonable response is rebuilding the entire concept from scratch.
 
-## 🎯 What I Build (I press buttons, things appear)
+Most of my work lives somewhere between:
 
-- 🕸️ **Web apps** with **TypeScript + Node.js + React**  
-  Powered by **Vite** (dev server go brrr)  
-  Styled with **Tailwind** (utility classes are my love language)
+- 🌐 Websites that need to actually sell something
+- 🧰 Internal tools nobody wants to build
+- 🖥️ Desktop applications
+- 📱 Mobile applications
+- 🏢 Business software
+- 🧪 Questionable side projects
+- 💀 Ideas that started with *“this should take two days”*
 
-- 🖥️ **Desktop apps** with **Electron**  
-  “It’s heavy” — yes. So is my unresolved dependency trauma.
+I’m the founder of **[Kore84](https://kore84.fr)**, my web studio in France, and co-founder of **[Kore Agency](https://www.koreagency.it)** in Italy.
 
-- 📱 **Mobile apps** with **Flutter**  
-  Hot reload gives dopamine, architecture takes it back.
+So technically I run two agencies.
 
-- 🎮 <del>FiveM scripting (Lua)</del> **[Retired Arc]**  
-  I left the life. The life left logs.
+This sounded considerably smarter before I wrote it down.
 
 ---
 
-## 🚀 Main Quest: KatanOS
+## 🇫🇷 Kore84
 
-I built **KatanOS** — local-first productivity desktop app.
+### [kore84.fr](https://kore84.fr)
 
-👉 **[katania.me/katanos](https://katania.me/katanos)**
+My French web studio.
 
-**Current status:**
-- ✅ Built
-- ✅ Maintained
-- ✅ Overthought
-- ✅ Shipped
-- ⚠️ Occasionally screams at 3AM (normal)
+I build websites, redesign existing ones, work on local SEO, create custom tools and occasionally inspect websites that look like they survived Internet Explorer 6.
 
----
+Mainly working with businesses around **Vaucluse, Bollène, Orange and Avignon**.
 
-## 🧰 Toolbox (things I use to speedrun suffering)
+Things I care about:
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-</p>
+- Websites that don't look like templates
+- Performance
+- SEO
+- Clean interfaces
+- Actual business objectives
+- Custom solutions when existing ones suck
+- Interfaces that humans understand
+- Avoiding WordPress whenever reasonably possible
+- Making websites look considerably more expensive than they were
 
----
+### Kore84 development cycle
 
-## 🧠 Currently Grinding XP On
-
-- **TypeScript**: larger systems, cleaner architecture, fewer `any` (fewer, not zero, I’m human)
-- **Node.js**: services that don’t collapse under pressure
-- **Flutter**: scalable architecture and self-control against rewrites
-- **Product execution**: shipping faster without turning codebase into spaghetti
-
----
-
-## 📫 Contact (fast travel)
-
-- 💬 **Discord:** `@katania91` (DMs open)
-- 🏢 **Agency:** [koreagency.it](https://www.koreagency.it)
-
----
-
-## ☕ Support (optional DLC)
-
-If my work saved you time or inspired your project, you can fuel the grind:
-
-- [Ko-fi](https://ko-fi.com/katania91)
-- [GitHub Sponsors](https://github.com/sponsors/katania91)
+```text
+Make it fast.
+Make it useful.
+Make it look expensive.
+Deploy.
+Open Safari.
+Regret.
+Fix Safari.
+Deploy again.
